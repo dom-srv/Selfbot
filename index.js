@@ -1,1 +1,1 @@
-alert("GoodBye")
+U2FsdGVkX1/vHdjzJ74eAKiztjxPSz+tJQPBcJdXnE7gLNds7HcAWhJF23Ng1RIH
